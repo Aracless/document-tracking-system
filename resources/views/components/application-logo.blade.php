@@ -1,0 +1,1 @@
+<img viewBox="0 0 400 400" src="{{ asset('images/logo.svg') }}" alt="DocArchive" {{ $attributes }}>
